@@ -1,0 +1,31 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "The Corpuscle"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+math = true
+
+[params]
+  author = "Shivratna"
+  description = "Computer Engineer trapped in a localized gravity well of electronics and math, currently teaching sand how to think before it catches fire."
+  github = ""
+  linkedin = ""
+  instagram = "https://www.instagram.com/thecorpuscle?igsh=MXBkdDc4cGc1cTNlMg=="
+  url = ""
+  keywords = "blog, google analytics"
+  rss = false
+  lastmod = true
+  userStatusEmoji = "⚡"
+  favicon = "/images/github.png"
+  avatar = "/images/avatar.jpeg"
+  headerIcon = "/images/logo2.JPG"
+  location = "India"
+  enableGitalk = false
+  custom_css = ["css/custom.css"]
+  custom_js = ["js/custom.js"]
+
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
