@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Corpuscle</title><link>http://localhost:1313/</link><description>Recent content on The Corpuscle</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 21:16:22 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>mHc Hyper Cononections</title><link>http://localhost:1313/post/mhc/</link><pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate><guid>http://localhost:1313/post/mhc/</guid><description>&lt;h3 id="mhc-hyper-cononections"&gt;mHc Hyper Cononections&lt;/h3&gt;
+&lt;h4 id="from-residual-connections-to-manifold-constrained-hyperconnections"&gt;From Residual Connections to Manifold-Constrained Hyperconnections&lt;/h4&gt;
+&lt;hr&gt;
+&lt;h2 id="abstract"&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Modern artificial intelligence is driven by scale. Larger models, deeper networks, and more parameters have consistently delivered better performance across language, vision, and reasoning tasks. However, this scaling trend faces a fundamental engineering and mathematical challenge: &lt;strong&gt;training instability&lt;/strong&gt;. As neural networks grow deeper, they become increasingly difficult to optimize, often suffering from exploding or vanishing signals that derail training entirely.&lt;/p&gt;</description></item><item><title/><link>http://localhost:1313/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/readme/</guid><description>&lt;h1 id="-shivratna---room-wrapped-genius-in-training"&gt;🛸 Shivratna - ROOM-WRAPPED GENIUS IN TRAINING&lt;/h1&gt;
+&lt;p&gt;I’m what happens when you let a Computer Engineer spend too much time reading research papers. I live at the intersection of &lt;strong&gt;&amp;ldquo;Why is this circuit smoking?&amp;rdquo;&lt;/strong&gt; (Electronics) and &lt;strong&gt;&amp;ldquo;Why is this model hallucinating?&amp;rdquo;&lt;/strong&gt; (AI). Currently bribing &lt;strong&gt;C++&lt;/strong&gt; and &lt;strong&gt;Verilog&lt;/strong&gt; to play nice while my room becomes a localized gravity well of hardware and math.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="-my-jack-of-all-trades-toolkit"&gt;🧠 My &amp;ldquo;Jack of All Trades&amp;rdquo; Toolkit&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🧩 The Brain:&lt;/strong&gt; Physics, Electronics, and Math — &lt;em&gt;The stuff that makes my head hurt, but makes the world work.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🎤 The Voice:&lt;/strong&gt; &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;Node.js&lt;/strong&gt;, and &lt;strong&gt;JavaScript&lt;/strong&gt; — &lt;em&gt;My daily drivers for building things that actually run.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🏎️ The Speed:&lt;/strong&gt; Currently wrestling with &lt;strong&gt;C++&lt;/strong&gt; pointers and &lt;strong&gt;Verilog&lt;/strong&gt; — &lt;em&gt;Because Hardware is &amp;ldquo;Hard-ware&amp;rdquo; for a reason.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🚀 The Future:&lt;/strong&gt; Deep diving into &lt;strong&gt;GPU&lt;/strong&gt; and &lt;strong&gt;TPU&lt;/strong&gt; architectures — &lt;em&gt;I just really like things that go &amp;ldquo;zoom.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="-current-experiments"&gt;🧪 Current Experiments&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;🤖 Machine Learning:&lt;/strong&gt; Reading research papers so I can pretend to know what &amp;ldquo;Manifold-Constrained Hyperconnections&amp;rdquo; actually feels like.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;🏗️ Hardware Architecture:&lt;/strong&gt; Trying to understand GPU kernels without letting the &amp;ldquo;magic smoke&amp;rdquo; out of my physical components.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;✍️ Technical Blogging:&lt;/strong&gt; Turning my 3:00 AM &amp;ldquo;Aha!&amp;rdquo; moments into blog posts before I forget them or the caffeine wears off.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id="-skill-tree-or-things-ive-broken-and-fixed"&gt;📈 Skill Tree (Or: Things I&amp;rsquo;ve Broken and Fixed)&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; [Physical World] [Logic Gates] [The Matrix] 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; Electronics ──▶ Verilog/GPUs ──▶ AI/ML Models 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; │ │ │
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; (Physics/Math) (C++/Node.js) (Python/Research) 
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; └───────────────────────────┴───────────────────────────┘
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; Status: ROOM-WRAPPED GENIUS MODE
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item></channel></rss>
