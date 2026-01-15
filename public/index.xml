@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Corpuscle</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/thecorpuscle/</link>
     <description>Recent content on The Corpuscle</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Jan 2026 06:39:12 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/thecorpuscle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>mHc Hyper Cononections</title>
-      <link>http://localhost:1313/post/mhc/</link>
+      <link>http://localhost:1313/thecorpuscle/post/mhc/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/mhc/</guid>
+      <guid>http://localhost:1313/thecorpuscle/post/mhc/</guid>
       <description>&lt;h3 id=&#34;mhc-hyper-cononections&#34;&gt;mHc Hyper Cononections&lt;/h3&gt;&#xA;&lt;h4 id=&#34;from-residual-connections-to-manifold-constrained-hyperconnections&#34;&gt;From Residual Connections to Manifold-Constrained Hyperconnections&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Modern artificial intelligence is driven by scale. Larger models, deeper networks, and more parameters have consistently delivered better performance across language, vision, and reasoning tasks. However, this scaling trend faces a fundamental engineering and mathematical challenge: &lt;strong&gt;training instability&lt;/strong&gt;. As neural networks grow deeper, they become increasingly difficult to optimize, often suffering from exploding or vanishing signals that derail training entirely.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/readme/</link>
+      <link>http://localhost:1313/thecorpuscle/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/readme/</guid>
+      <guid>http://localhost:1313/thecorpuscle/readme/</guid>
       <description>&lt;h1 id=&#34;-shivratna---room-wrapped-genius-in-training&#34;&gt;🛸 Shivratna - ROOM-WRAPPED GENIUS IN TRAINING&lt;/h1&gt;&#xA;&lt;p&gt;I’m what happens when you let a Computer Engineer spend too much time reading research papers. I live at the intersection of &lt;strong&gt;&amp;ldquo;Why is this circuit smoking?&amp;rdquo;&lt;/strong&gt; (Electronics) and &lt;strong&gt;&amp;ldquo;Why is this model hallucinating?&amp;rdquo;&lt;/strong&gt; (AI). Currently bribing &lt;strong&gt;C++&lt;/strong&gt; and &lt;strong&gt;Verilog&lt;/strong&gt; to play nice while my room becomes a localized gravity well of hardware and math.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-my-jack-of-all-trades-toolkit&#34;&gt;🧠 My &amp;ldquo;Jack of All Trades&amp;rdquo; Toolkit&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;🧩 The Brain:&lt;/strong&gt; Physics, Electronics, and Math — &lt;em&gt;The stuff that makes my head hurt, but makes the world work.&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;🎤 The Voice:&lt;/strong&gt; &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;Node.js&lt;/strong&gt;, and &lt;strong&gt;JavaScript&lt;/strong&gt; — &lt;em&gt;My daily drivers for building things that actually run.&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;🏎️ The Speed:&lt;/strong&gt; Currently wrestling with &lt;strong&gt;C++&lt;/strong&gt; pointers and &lt;strong&gt;Verilog&lt;/strong&gt; — &lt;em&gt;Because Hardware is &amp;ldquo;Hard-ware&amp;rdquo; for a reason.&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;🚀 The Future:&lt;/strong&gt; Deep diving into &lt;strong&gt;GPU&lt;/strong&gt; and &lt;strong&gt;TPU&lt;/strong&gt; architectures — &lt;em&gt;I just really like things that go &amp;ldquo;zoom.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-current-experiments&#34;&gt;🧪 Current Experiments&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;🤖 Machine Learning:&lt;/strong&gt; Reading research papers so I can pretend to know what &amp;ldquo;Manifold-Constrained Hyperconnections&amp;rdquo; actually feels like.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;🏗️ Hardware Architecture:&lt;/strong&gt; Trying to understand GPU kernels without letting the &amp;ldquo;magic smoke&amp;rdquo; out of my physical components.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;✍️ Technical Blogging:&lt;/strong&gt; Turning my 3:00 AM &amp;ldquo;Aha!&amp;rdquo; moments into blog posts before I forget them or the caffeine wears off.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-skill-tree-or-things-ive-broken-and-fixed&#34;&gt;📈 Skill Tree (Or: Things I&amp;rsquo;ve Broken and Fixed)&lt;/h3&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;       [Physical World]             [Logic Gates]             [The Matrix]    &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        Electronics      ──▶        Verilog/GPUs       ──▶     AI/ML Models   &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;             │                           │                           │&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      (Physics/Math)               (C++/Node.js)              (Python/Research) &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;             └───────────────────────────┴───────────────────────────┘&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                           Status: ROOM-WRAPPED GENIUS MODE&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>

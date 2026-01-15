@@ -1,31 +1,66 @@
-baseURL = "http://localhost:1313/"
+############################################
+# Core Site Settings
+############################################
+
+baseURL = "https://ftlrecords.github.io/thecorpuscle/"
 languageCode = "en-us"
 title = "The Corpuscle"
 theme = "github-style"
+
+# REQUIRED for GitHub Pages project sites
+relativeURLs = false
+canonifyURLs = true
+
+############################################
+# Syntax Highlighting & Math
+############################################
+
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 math = true
 
+############################################
+# Build Safety
+############################################
+
+enableRobotsTXT = true
+
+############################################
+# Theme Parameters
+############################################
+
 [params]
   author = "Shivratna"
   description = "Computer Engineer trapped in a localized gravity well of electronics and math, currently teaching sand how to think before it catches fire."
+
   github = ""
   linkedin = ""
   instagram = "https://www.instagram.com/thecorpuscle?igsh=MXBkdDc4cGc1cTNlMg=="
-  url = ""
-  keywords = "blog, google analytics"
+
+  # ❌ NEVER localhost in production
+  url = "https://ftlrecords.github.io/thecorpuscle/"
+
+  keywords = "blog, electronics, hardware, ai, research"
   rss = false
   lastmod = true
+
   userStatusEmoji = "⚡"
+
   favicon = "/images/github.png"
   avatar = "/images/avatar.jpeg"
   headerIcon = "/images/logo2.JPG"
-  location = "India"
-  enableGitalk = false
-  custom_css = ["css/custom.css"]
-  custom_js = ["js/custom.js"]
 
+  location = "India"
+
+  enableGitalk = false
+
+  # Custom assets (THESE NOW LOAD CORRECTLY)
+  custom_css = ["css/custom.css"]
+  custom_js  = ["js/custom.js"]
+
+############################################
+# Frontmatter
+############################################
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
-

@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/mhc/</loc>
+    <loc>http://localhost:1313/thecorpuscle/post/mhc/</loc>
     <lastmod>2026-01-12T06:39:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://localhost:1313/thecorpuscle/post/</loc>
     <lastmod>2026-01-12T06:39:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/thecorpuscle/</loc>
     <lastmod>2026-01-12T06:39:12+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/readme/</loc>
+    <loc>http://localhost:1313/thecorpuscle/readme/</loc>
     <lastmod>2026-01-12T05:49:37+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/thecorpuscle/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/thecorpuscle/tags/</loc>
   </url>
 </urlset>
