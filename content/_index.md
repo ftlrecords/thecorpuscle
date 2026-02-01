@@ -4,8 +4,10 @@ enableToc: false
 description: The Corpuscle is a playful research notebook where AI, math, physics, and hardware are overanalyzed with curiosity, equations, and mild chaos.
 ---
 
-> [!custom] Welcome to **THE CORPUSCLE** (basically a **Detour Archive**)
-> This archive is what happens when I can’t leave a **"huh, that’s interesting"** moment alone. I might start with implementing **vLLM** from scratch or reading the **mHC** paper, but a hardware glitch sends me into a lecture series on **Fourier transforms** and **analog circuits**. Eventually, this takes me down into the **physics** and **semiconductors** leading me **differential equations** to see how thigns are connected. It’s just a trail of open threads and math I stumbled into while trying to fix something else.
+> [!custom] Welcome to **THE CORPUSCLE LOGS** (basically a **Detour Archive**)
+> A space where curiosity behaves like a double pendulum here — starting simply, then unfolding into something far less predictable.
+One question leads to another, diagrams appear, and straightforward ideas reveal hidden complexity.
+This is where I try to keep up with that process in writing.
 ---
 
 # Why This Site Exists
