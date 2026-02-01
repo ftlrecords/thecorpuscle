@@ -77,7 +77,7 @@ const config: QuartzConfig = {
 		analytics: {
 			provider: "postHog",
 		},
-		baseUrl: "blog.plasticlabs.ai",
+		baseUrl: "ftlrecords.github.io/thecorpuscle",
 		ignorePatterns: ["private", "templates"],
 		locale: "en-US",
 		defaultDateType: "created",
