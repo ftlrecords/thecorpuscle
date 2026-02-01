@@ -1,0 +1,133 @@
+// Copy page markdown button styles
+.copy-page-container {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  margin-top: 2rem; // Match article title margin
+}
+
+.copy-page-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.6rem;
+  font-size: 0.85rem;
+  font-family: var(--codeFont);
+  color: var(--darkgray);
+  background-color: var(--highlight);
+  border: 1px solid var(--lightgray);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+
+  &:hover {
+    background-color: var(--highlight);
+    border-color: var(--secondary);
+  }
+
+  svg {
+    fill: currentColor;
+  }
+
+  .dropdown-arrow {
+    margin-left: 0.2rem;
+    fill: currentColor;
+    opacity: 0.6;
+  }
+}
+
+.copy-page-dropdown {
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 0;
+  width: max-content;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 100;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-4px);
+  transition: all 0.15s ease;
+  overflow: hidden;
+  padding: 0;
+
+  &.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+// Reset styles for all dropdown items (both a and button)
+// Need to override a.internal and a.external styles that get added by Quartz link processor
+.copy-page-dropdown > a.dropdown-item,
+.copy-page-dropdown > a.dropdown-item.internal,
+.copy-page-dropdown > a.dropdown-item.external,
+.copy-page-dropdown > button.dropdown-item {
+  display: block !important;
+  padding: 0.5rem 1rem !important;
+  margin: 0 !important;
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-sizing: border-box !important;
+  width: 100% !important;
+  text-align: left;
+  cursor: pointer;
+  text-decoration: none !important;
+  color: var(--dark) !important;
+  font-weight: normal !important;
+  line-height: 1.4 !important;
+
+  &:hover {
+    background-color: var(--highlight) !important;
+    color: var(--dark) !important;
+  }
+
+  svg, img {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 0.6rem;
+    margin-top: 0.1rem;
+    width: 16px;
+    height: 16px;
+  }
+
+  svg {
+    fill: var(--darkgray);
+  }
+
+  .dropdown-item-content {
+    display: inline-block;
+    vertical-align: top;
+  }
+}
+
+.dropdown-item-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.dropdown-item-title {
+  font-size: 0.85rem;
+  font-family: var(--codeFont);
+  font-weight: 500;
+  color: var(--dark);
+}
+
+.dropdown-item-desc {
+  font-size: 0.75rem;
+  font-family: var(--codeFont);
+  color: var(--gray);
+}
+
+.external-arrow {
+  font-size: 0.75rem;
+  opacity: 0.7;
+}
+
+
