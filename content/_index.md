@@ -73,22 +73,7 @@ More projects will appear here as soon as ideas survive contact with reality.
 
 
 ---
-
-### 📈 Skill Tree (Or: Things I've Broken and Fixed)
-```
-                              [Physical World]         [Logic Gates]          [The Matrix]
-
-                                 Electronics    ⇒     Verilog/GPUs    ⇒    AI/ML Models
-                                 
-                                    ⇓                      ⇓                      ⇓
-                              
-                               (Physics/Math)         (C++/Node.js)         (Python/Research)
-                                    └───────────────────────┴─────────────────────┘
-                                                              
-                                              Status: ROOM-WRAPPED GENIUS MODE
-```
-
-
+![Logo](/graph.png)
 ---
 
 # Site Map
