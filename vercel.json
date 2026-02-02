@@ -1,4 +1,6 @@
 {
   "buildCommand": "QUARTZ_OUTPUT=html npx quartz build",
-  "outputDirectory": "public"
+  "outputDirectory": "public",
+  "trailingSlash": true,
+  "cleanUrls": true
 }
