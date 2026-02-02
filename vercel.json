@@ -1,7 +1,4 @@
 {
-  "buildCommand": "npx quartz build",
-  "outputDirectory": "public",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/$1/llms.txt" }
-  ]
+  "buildCommand": "npx quartz build --target website",
+  "outputDirectory": "public"
 }
