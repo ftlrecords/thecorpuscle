@@ -76,13 +76,13 @@ PageTitle.css = `
 
   /* Make title smaller and align with logo */
   .page-title {
-    font-size: 1.15rem;
+    font-size: 0.9rem;
     text-align: left;
   }
 
   /* Slight spacing tweak */
   .page-title-wrapper {
-    margin-top: 0.5rem;
+    margin-top: 0.4rem;
   }
 }
 `
