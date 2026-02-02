@@ -1,4 +1,4 @@
 {
-  "buildCommand": "npx quartz build --target website",
+  "buildCommand": "QUARTZ_OUTPUT=html npx quartz build",
   "outputDirectory": "public"
 }
